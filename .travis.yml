@@ -3,3 +3,6 @@ script: sbt test
 scala:
   - 2.12.0
   - 2.11.8
+jdk:
+  - oraclejdk8
+sudo: false
